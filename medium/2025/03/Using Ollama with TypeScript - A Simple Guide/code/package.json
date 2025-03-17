@@ -1,0 +1,28 @@
+{
+  "name": "ollama-typescript-examples",
+  "version": "1.0.0",
+  "description": "Examples of using Ollama with TypeScript",
+  "main": "dist/generate.js",
+  "scripts": {
+    "build": "tsc",
+    "basic": "tsx src/generate.ts",
+    "stream": "tsx src/generate-stream.ts",
+    "system-role": "tsx src/chat-system-role.ts",
+    "chat": "tsx src/chat-history-stream.ts"
+  },
+  "keywords": [
+    "ollama",
+    "typescript",
+    "llm"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ollama": "^0.4.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.5",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3"
+  }
+}

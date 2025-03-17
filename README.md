@@ -4,6 +4,12 @@ This repository contains a list of publications I have authored or co-authored a
 
 ## Publications
 
+### March 2025
+
+#### Medium
+
+- <a href="https://medium.com/@jonigl/using-ollama-with-typescript-a-simple-guide-20f5e8d3827c" target="_blank">Using Ollama with TypeScript: A Simple Guide</a> - (4 min read) Learn how to integrate Ollama's powerful language models into your TypeScript applications with simple code examples. Also you can read on this [GitHub Readme](medium/2025/03/Using%20Ollama%20with%20TypeScript%20-%20A%20Simple%20Guide/README.md)
+
 ### February 2025
 
 #### Medium

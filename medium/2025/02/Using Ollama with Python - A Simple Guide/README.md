@@ -17,8 +17,7 @@ Before running the Python examples in this guide, make sure you have the necessa
 
 # Pull the models used in these examples
 ```
-ollama pull llama3.2:1b  
-ollama pull codellama
+ollama pull llama3.2:1b
 ```
 You only need to pull these models once. Check which models you already have with:
 ```
