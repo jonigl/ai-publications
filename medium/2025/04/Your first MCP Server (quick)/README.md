@@ -9,13 +9,13 @@ If you’ve landed on this article, you’re probably wondering: _“What’s al
 
 ### What’s all this MCP stuff about?
 
-At this point you probably know what **MCP** is, but if you don’t, no worries — I’ve got you covered. MCP was introduced last year by Anthropic (the company behind Claude) and stands for **Model Context Protocol** It might sound complex at first, but it’s actually quite simple. MCP is a way to let **LLMs** (**Large Language Models**) interact with tools in a open standard way, allowing them to get context from different data sources and even execute tasks on you behalf, so building agents is just around the corner.
+At this point you probably know what **MCP** is, but if you don’t, no worries - I’ve got you covered. MCP was introduced last year by Anthropic (the company behind Claude) and stands for **Model Context Protocol** It might sound complex at first, but it’s actually quite simple. MCP is a way to let **LLMs** (**Large Language Models**) interact with tools in a open standard way, allowing them to get context from different data sources and even execute tasks on you behalf, so building agents is just around the corner.
 
 ### Why is it getting so much hype lately?
 
 Answering this isn’t easy, because everyone has their own take. But here’s the deal: MCP gives the **community** a **standard** way to build connectors for AI apps, so you don’t have to build everything yourself. Most tools can be **plug-and-play.** Third-party services can run their own servers, and you can use them without needing custom implementations. That **simplicity** is what’s getting everyone excited and backing MCP as the go-to standard.
 
-## Clock is clicking, How can I build my first MCP Server (Fast!)?
+## Clock is ticking, How can I build my first MCP Server (Fast!)?
 
 First of all, we need to decide what tool we want to make available to LLMs. Let’s keep it simple and just create a get weather by city tool which is kind of a “hello world” example. For this we will use wttr.in and as they say, they are “the right way to check curl the weather!” and it will allow us to create this weather server really straightforward!
 
