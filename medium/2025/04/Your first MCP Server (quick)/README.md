@@ -113,7 +113,7 @@ At this point we only need to find a **MCP client** to test it. I have written o
 
 > Ollama is a great starting point because it’s easy to set up locally and supports llm models that can run locally and use tools through MCP.
 
-> If you are not familiar with Ollama you can check my article [Getting Started with Ollama: Run LLMs on Your Computer](https://medium.com/@jonigl/getting-started-with-ollama-run-llms-on-your-computer-915ba084918c))
+> If you are not familiar with Ollama you can check my article [Getting Started with Ollama: Run LLMs on Your Computer](../../02/Getting%20Started%20with%20Ollama%20-%20Run%20LLMs%20on%20Your%20Computer/README.md))
 
 Let’s install the MCP client
 
