@@ -123,7 +123,7 @@ Let’s install the MCP client
 pip install ollmcp
 ```
 
-I recommend using the `[**qwen2.5:7b**](https://ollama.com/library/qwen2.5)` model, but you can use any Ollama model that supports tools.
+I recommend using the **[qwen2.5:7b](https://ollama.com/library/qwen2.5)** model, but you can use any Ollama model that supports tools.
 
 ```bash
 ollama pull qwen2.5:7b
