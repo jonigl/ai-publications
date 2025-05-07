@@ -11,6 +11,11 @@ This repository contains a list of publications I have authored or co-authored a
   🚀 **Learn how to build your own MCP server** to let LLMs interact with your tools.  
   Also available on this [GitHub Readme](medium/2025/04/Your%20first%20MCP%20Server%20(quick)/README.md).
 
+### DEV
+- **[Your first MCP Server (quick)](https://dev.to/jonigl/your-first-mcp-server-quick-35eg)** (6 min read)  
+  🚀 **Learn how to build your own MCP server** to let LLMs interact with your tools.  
+  Also available on this [GitHub Readme](medium/2025/04/Your%20first%20MCP%20Server%20(quick)/README.md).
+
 ## March 2025
 
 ### Medium
