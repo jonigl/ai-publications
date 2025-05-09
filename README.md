@@ -6,9 +6,9 @@ This repository contains a list of publications I have authored or co-authored a
 
 - **[Build an MCP Client in Minutes: Local AI Agents Just Got Real](https://medium.com/@jonigl/build-an-mcp-client-in-minutes-local-ai-agents-just-got-real-a10e186a560f)** (5 min read)  
   🤖 **Learn how to build a full MCP client in under 100 lines** and take your first steps into the world of local AI agents.  
+  - GitHub: [View here on GitHub](./publications/2025/05/Build%20an%20MCP%20Client%20in%20Minutes%20-%20Local%20AI%20Agents%20Just%20Got%20Real/README.md)
   - Medium: [Read on Medium](https://medium.com/@jonigl/build-an-mcp-client-in-minutes-local-ai-agents-just-got-real-a10e186a560f)  
   - DEV: [Read on DEV](https://dev.to/jonigl/build-an-mcp-client-in-minutes-local-ai-agents-just-got-real-4gj6)  
-  - GitHub: [View here on GitHub](./publications/2025/05/Build%20an%20MCP%20Client%20in%20Minutes%20-%20Local%20AI%20Agents%20Just%20Got%20Real/README.md)
 
 ## April 2025
 
