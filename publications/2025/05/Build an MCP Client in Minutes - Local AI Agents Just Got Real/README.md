@@ -230,6 +230,10 @@ All the code with the `client.py`, a ready-to-run `server.py`, plus the `uv` pro
 
 Clone it, run it, and start wiring your own tools in minutes 🙌
 
-### Check the asciinema demo
+### Check out the asciinema demo
 
 [![asciicast](https://asciinema.org/a/718592.svg)](https://asciinema.org/a/718592)
+
+### Want to know how to build an MCP server?
+
+You can check out my article on how to build an MCP server in minutes here: [Your first MCP Server (quick)](../../04/Your%20first%20MCP%20Server (quick)/README.md).
