@@ -1,4 +1,3 @@
-
 # **MCP filesystem: Server disconnected**
 
 ![](img/cover.png)

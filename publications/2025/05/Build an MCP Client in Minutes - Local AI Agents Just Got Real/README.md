@@ -1,6 +1,6 @@
 # Build an MCP Client in Minutes: Local AI Agents Just Got Real
 
-![](img/cover.png)
+![article cover image](img/cover.png)
 
 Built an MCP server already? well done! But it's only half the story. Without a client your model is shouting into the void.
 
@@ -170,7 +170,7 @@ What's the weather in Tokyo?
 
 If your server exposes `get_weather`, the model silently calls it and answers like a pro. That's **MCP + Ollama** working together on your desk.
 
-![terminal execution](img/terminal-execution.png)
+![terminal execution screenshot](img/terminal-execution.png)
 _Here you can see how it looks like!_ 🤩
 
 ## How it works
