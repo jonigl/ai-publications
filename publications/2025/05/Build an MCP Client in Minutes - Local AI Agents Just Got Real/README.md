@@ -4,7 +4,7 @@
 
 Built an MCP server already? well done! But it's only half the story. Without a client your model is shouting into the void.
 
-Give me **8 minutes** and you'll:
+Give me **5 minutes** and you'll:
 
 * **Ship a full MCP client in under 100 lines**
 * **First steps into the world of local AI agents**
