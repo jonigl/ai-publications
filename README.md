@@ -12,7 +12,7 @@ This repository contains a list of publications I have authored or co-authored a
 
 ## April 2025
 
-### Your first MCP Server (quick) | 6 min read
+### How to Build Your First MCP Server (Fast) | 6 min read
   🚀 **Learn how to build your own MCP server** to let LLMs interact with your tools.  
   - [Read here on GitHub](./publications/2025/04/Your%20first%20MCP%20Server (quick)/README.md)
   - [Read on Medium](https://medium.com/@jonigl/your-first-mcp-server-quick-5dc955a5f364)  

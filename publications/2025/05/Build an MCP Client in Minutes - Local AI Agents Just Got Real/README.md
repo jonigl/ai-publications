@@ -236,4 +236,4 @@ Clone it, run it, and start wiring your own tools in minutes 🙌
 
 ### Want to know how to build an MCP server?
 
-You can check out my article on how to build an MCP server in minutes here: [Your first MCP Server (quick)](../../04/Your%20first%20MCP%20Server (quick)/README.md).
+You can check out my article on how to build an MCP server in minutes here: [How to Build Your First MCP Server (Fast)](../../04/Your%20first%20MCP%20Server (quick)/README.md).

@@ -1,5 +1,5 @@
 
-# Your first MCP Server (quick)
+# How to Build Your First MCP Server (Fast)
 
 ![](img/cover.png)
 
