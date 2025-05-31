@@ -1,21 +1,22 @@
 # Ollama’s New Thinking Mode in less than 5 Minutes
 ![Ollama Thinking Mode Cover](./img/cover.png)
 
-> [!TIP] _Get the most of Ollama’s reasoning models with the new thinking mode._
+> [!TIP]
+> *Get the most of Ollama’s reasoning models with the new thinking mode.*
 
-Ollama `v0.9.0` was just released with support for thinking mode, and today the Python SDK reached parity with `v0.5.0`. This means you can start using this powerful reasoning feature right away to build smarter local AI agents.
+**Ollama** `v0.9.0` was just released with support for t**hinking mode**, and today the **Ollama Python SDK** reached parity with `v0.5.0`. This means you can start using this powerful reasoning feature right away to build smarter local AI agents.
 
 ## Why this is exciting
 
 **Benefits of Thinking Mode**
 
-- **Improved performance on complex tasks** – thinking before responding leads to more accurate, step‑by‑step answers for reasoning and planning.
-- **Better understanding of user instructions** – the model can unpack nuanced prompts and pinpoint key requirements.
-- **More creative and informative responses** – by exploring multiple possibilities internally, it surfaces fresh ideas and richer explanations.
+- **Improved performance on complex tasks**: thinking before responding leads to more accurate, step‑by‑step answers for reasoning and planning.
+- **Better understanding of user instructions**: the model can unpack nuanced prompts and pinpoint key requirements.
+- **More creative and informative responses**: by exploring multiple possibilities internally, it surfaces fresh ideas and richer explanations.
 
 ## What you will learn
 
-Ollama's new thinking mode allows models to reason through complex tasks before providing a final answer. This is a game-changer for building local AI agents that can think through problems, plan solutions, and provide more accurate responses.
+Ollama's new thinking mode allows models to reason through complex tasks before providing a final answer. This is a game-changer for building local **AI agents** that can think through problems, plan solutions, and provide more accurate responses.
 
 On this tutorial I will guide you through setting up a simple interactive chat application that demonstrates this new feature using the Ollama Python SDK. You’ll see how to pull a thinking‑capable model, install the SDK, and run a chat that reveals the model's thought process in real-time.
 
@@ -33,13 +34,14 @@ On this tutorial I will guide you through setting up a simple interactive chat a
 - [Ollama](https://ollama.com/) version ≥ `v0.9.0`
 - A thinking‑capable model like `qwen3:0.6b` pulled from Ollama
 
-> [!NOTE] **Heads‑up:** Only models trained to expose their reasoning support thinking today. Check the _thinking models_ list that Ollama is maintaining.
+> [!NOTE]
+> **Heads‑up:** Only models trained to expose their reasoning support thinking today. Check the _thinking models_ list that Ollama is maintaining.
 
 Let’s get started!
 
-## Step 1 - Let's Upgrade Ollama to v0.9.0
+## Step 1. Let's Upgrade Ollama to v0.9.0
 
-We will need the latest Ollama release to use the thinking mode. If you already have Ollama installed, ensure it is at least version 0.9.0. You can check your version with:
+We will need the latest Ollama release to use the thinking mode. If you already have Ollama installed, ensure it is at least version `0.9.0`. You can check your version with:
 
 ```bash
 ollama --version   # should print 0.9.0 or higher
@@ -59,7 +61,7 @@ winget upgrade Ollama
 
 If you don’t have Ollama installed yet check the official website [https://ollama.com/](https://ollama.com/).
 
-## Step 2 - Pull a thinking‑capable model
+## Step 2. Pull a thinking‑capable model
 
 We will use the `qwen3:0.6b` model, since it is super small and fast, yet supports thinking mode. You can pull it with the following command:
 
@@ -73,13 +75,14 @@ Let's run one quickly to see the CLI in action:
 ollama run qwen3:0.6b "Is 5 a Fibonacci number?" --think
 ```
 
-You'll see two distinct sections: first, the dim _Thinking..._ output showing the model's internal reasoning, followed by the clean final answer. Because it is only 0.6B parameters, this tiny model blazes through tokens faster than you can read them 😄
+You'll see two distinct sections: first, the dim *Thinking...* output showing the model's internal reasoning, followed by the clean final answer. Because it is only 0.6B parameters, this tiny model blazes through tokens faster than you can read them 🤣
 
-## Step 3 - Install the Python SDK with thinking support
+## Step 3. Install the Python SDK with thinking support
 
-Now let's generate a virtual environment using `uv` and install the latest Ollama Python SDK.
+Now let's generate a **virtual environment** using `uv` and install the latest Ollama Python SDK.
 
-> [!TIP] If you don't have `uv` installed, you can do check the [uv documentation](https://github.com/astral-sh/uv?tab=readme-ov-file#installation).
+> [!TIP]
+> If you don't have `uv` installed, you can do check the [uv documentation](https://github.com/astral-sh/uv?tab=readme-ov-file#installation).
 
 ```bash
 # Create a new directory for the demo
@@ -100,9 +103,10 @@ Now let's install the latest Ollama Python SDK, which includes support for think
 uv add ollama rich
 ```
 
-> [!Tip] Version 0.5.0 introduces the `think` parameter in both `generate` and `chat` helpers. We are installing rich as well
+> [!TIP]
+> Version `0.5.0` introduces the `think` parameter in both `generate` and `chat` helpers. We are installing rich as well
 
-## Step 4 - Copy‑paste the **ThinkingChat** demo
+## Step 4. Copy&paste the **ThinkingChat** demo
 
 Create a new file called `ollama_thinking_chat.py` and copy the following code into it:
 
@@ -194,7 +198,7 @@ You should see the model's thinking process displayed in a dimmed format, follow
 [![asciicast](https://asciinema.org/a/721503.svg)](https://asciinema.org/a/721503)
 
 
-## What you can build next
+## What you can build next?
 
 - **Educational tutors** that teach by example, revealing step‑by‑step logic.
 - **Debugging dashboards** that compare the chain‑of‑thought across models.
@@ -208,9 +212,9 @@ Check out the complete code in the [code directory](./code/). There you will fin
 
 ## Final thoughts
 
-With Ollama's new thinking mode and the Python SDK, you can now build applications that leverage the model's reasoning capabilities. This opens up exciting possibilities for creating more intelligent local AI agents that can think through complex tasks and provide better answers.
+With Ollama's new thinking mode and the Ollama Python SDK, you can now build applications that leverage the model's **reasoning capabilities**. This opens up exciting possibilities for creating **more intelligent local AI agents** that can think through complex tasks and provide **better answers**.
 
-**Enjoy building!** If this guide saved you time, consider dropping a ⭐️ on this repository. Thank you for your support, and your feedback shapes the next release.
+**Enjoy building!** If this guide saved you time, consider dropping a ⭐️ on this repository. Thank you for your support, and happy coding! 🚀
 
 ## Resources
 
