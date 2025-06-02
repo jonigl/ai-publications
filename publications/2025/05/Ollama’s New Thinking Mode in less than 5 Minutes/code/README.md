@@ -31,10 +31,7 @@ Before running these examples, make sure you have:
 
 ## Setup
 
-1. Navigate to this directory:
-   ```bash
-   cd "Ollama's New Thinking Mode in less than 5 Minutes/code"
-   ```
+1. On a terminal, navigate to this directory.
 
 2. Create and activate a virtual environment:
    ```bash
@@ -54,7 +51,7 @@ Before running these examples, make sure you have:
 
 ## Running the Examples
 
-### Example 1: Basic Thinking Chat (`ollama_thinking_chat.py`)
+### Example 1: Basic Thinking Chat
 
 This is the main example from the tutorial - a simple interactive chat that shows the model's thinking process in real-time.
 
@@ -75,7 +72,7 @@ Question: Is 5 a Fibonacci number?
 Question: How do you make a paper airplane?
 ```
 
-### Example 2: Extended Thinking Chat (`ollama_thinking_chat_extended.py`)
+### Example 2: Extended Thinking Chat
 
 An enhanced version with additional features and capabilities.
 
