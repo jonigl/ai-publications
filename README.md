@@ -8,6 +8,7 @@ This repository contains a list of publications I have authored or co-authored a
   🧠 **Learn how to use Ollama's new thinking mode** to build local AI agents that can reason through complex tasks.
   - [Read here on GitHub](./publications/2025/05/Ollama’s%20New%20Thinking%20Mode in%20less%20than%205%20Minutes/README.md)
   - [Read on Medium](https://medium.com/@jonigl/ollamas-new-thinking-mode-in-less-than-5-minutes-52c525e801c5)
+  - [Read on DEV](https://dev.to/jonigl/ollamas-new-thinking-mode-in-less-than-5-minutes-13ig)
 
 
 ### Build an MCP Client in Minutes: Local AI Agents Just Got Real | ⏱️ 5 min read
