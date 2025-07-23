@@ -2,6 +2,13 @@
 
 This repository contains a list of publications I have authored or co-authored about **Artificial Intelligence**, **Generative AI**, **Machine Learning**, etc.
 
+## July 2025
+
+### Ollama MCP Bridge: Effortless Tool Integration | ⏱️ 5 min read
+  🚪 **Learn how to build a drop-in proxy that transparently adds every MCP server tool** to your Ollama chat completions without any boilerplate code.
+  - [Read here on GitHub](./publications/2025/07/ollama-mcp-bridge-effortless-tool-integration/README.md)
+  - [Read on Medium](https://medium.com/@jonigl/ollama-mcp-bridge-effortless-tool-integration-e32b55086395)
+
 ## May 2025
 
 ### Ollama's New Thinking Mode in less than 5 Minutes | ⏱️ 5 min read
@@ -52,4 +59,3 @@ This repository contains a list of publications I have authored or co-authored a
   - [Read here on GitHub](./publications/2025/02/Using%20Ollama%20with%20Python%20-%20A%20Simple%20Guide/README.md)
   - [Read on Medium](https://medium.com/@jonigl/using-ollama-with-python-a-simple-guide-0752369e1e55)
   - [Read on DEV](https://dev.to/jonigl/using-ollama-with-python-a-simple-guide-27c2)
-
