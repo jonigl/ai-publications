@@ -152,4 +152,4 @@ I’d love to hear how you’re using it so feel free to drop a comment below.
 
 > If you enjoyed this article, please leave a star ⭐️ on the GitHub repo of the Ollama MCP Bridge project. Thank you for your support.
 >
->![GitHub Repo stars](https://img.shields.io/github/stars/jonigl/ollama-mcp-bridge)
+>![GitHub Repo stars](https://img.shields.io/github/stars/jonigl/ollama-mcp-bridge?style=social&link=https%3A%2F%2Fgithub.com%2Fjonigl%2Follama-mcp-bridge)
